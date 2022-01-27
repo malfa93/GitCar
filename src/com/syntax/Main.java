@@ -5,10 +5,12 @@ public class Main {
         // the basic structure
 
         CarBasics car = new CarBasics();
-        car.color = "red";
-        car.engine ="7999cc";
-        car.doors = "2";
-        car.numbers = "119018";
+
+        car.color = "green";
+        car.numbers = "789";
+        car.engine = "9879Cc";
+        car.doors = "3";
+
         System.out.println(car.color);
     }
 }
